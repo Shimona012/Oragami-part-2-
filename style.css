@@ -1,0 +1,44 @@
+
+            h1{
+                text-align: center;
+color:lightcoral;
+border: 10px outset dimgray;
+background-color: dimgrey;
+            } 
+            
+            h4{
+                text-align: center;
+color:rgb(136, 255, 0);
+border: 5px outset dimgray;
+background-color: dimgrey;
+            } 
+            body{
+                background-color: aliceblue;
+            }
+            img{
+                border: 5px Double black;
+            }
+            p{
+                font-family: comic sans ms;
+                font-weight: italic;
+            }
+            ol,ul{
+                font-family: comic sans ms;
+            }
+            hr{
+                color: fuchsia;
+            }
+         .menu{
+             display:flex;
+             justify-content: space-between;
+             background-color: black;
+             font-size: 20px;
+             font-family: sans-serif;
+             font-weight:400 ;
+             color: white;
+         }
+         .grid{
+            display:flex;
+            flex-wrap:wrap;
+         }
+       
